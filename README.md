@@ -116,7 +116,7 @@ Retinoblastoma-Detection/
 ├── models_1/                # Saved Model Weights (.pth)
 └── README.md                # Documentation
 
-##🔧 Installation
+#🔧 Installation
 
     
 git clone https://github.com/yourusername/retinoblastoma-detection.git
@@ -142,7 +142,7 @@ pip install torch torchvision opencv-python flask numpy matplotlib pandas tqdm
 
       
 
-##🏃 Usage
+#🏃 Usage
 1. Training the Model
 
 To train the model on your own dataset, ensure your data is in the Final folder structure, then run:
@@ -178,7 +178,7 @@ code Bash
 
 Upload a retinal image to see the classification and heatmap.
 
-##📊 Results
+#📊 Results
 
 The system evaluates images based on probability scores:
 
@@ -194,7 +194,7 @@ Metrics used for evaluation:
 
  Intersection over Union (IoU).
 
-##📚 References
+#📚 References
 
    EfficientNetV2: Tan, M., & Le, Q. V. (2021). "Smaller Models and Faster Training."
 
@@ -202,4 +202,4 @@ Metrics used for evaluation:
  
    Retinex Theory: Rahman, Z., et al. (2016). "Retinex Theory Based Adaptive Filter for Color Correction."
 
-##Disclaimer: This project is for educational and research purposes only. It is not a certified medical device and should not replace professional medical diagnosis.
+#Disclaimer: This project is for educational and research purposes only. It is not a certified medical device and should not replace professional medical diagnosis.
