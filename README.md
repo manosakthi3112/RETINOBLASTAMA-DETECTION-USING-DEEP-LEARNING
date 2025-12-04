@@ -225,7 +225,7 @@ The system evaluates images based on probability scores:
 
 ---
 
-## 👥 Authors
+## 👥 Author
 
 * **MANOSAKTHI THIYAGARAJAN** 
 
